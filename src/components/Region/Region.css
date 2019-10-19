@@ -1,0 +1,65 @@
+.badge {
+  background: #fcca00;
+  position: absolute;
+  width: 170px;
+  border-radius: 130px 0px 0px 130px;
+  margin: 622px 0 0 244px;
+  padding: 10px;
+  align-items: center;
+  box-shadow: -6px 6px 11px 9px rgba(0, 0, 0, 0.2);
+  text-align: right;
+}
+
+.badgeGer {
+  background: #fcca00;
+  position: absolute;
+  width: 170px;
+  border-radius: 0 130px 130px 0;
+  margin: -2px 10px 1px 0px;
+  padding: 10px;
+  align-items: center;
+  box-shadow: -6px 6px 11px 9px rgba(0, 0, 0, 0.2);
+  text-align: left;
+}
+
+.svg-tempGer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.svg-tempJam {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#temperatureGer {
+  font-size: 3em;
+  margin-right: 12px;
+}
+
+#temperature {
+  font-size: 3em;
+  margin-left: 10px;
+}
+
+#country-image {
+  border-radius: 0 150px 0 150px;
+  box-shadow: -6px 6px 11px 1px rgba(0, 0, 0, 0.2);
+}
+
+#country-imageGer {
+  border-radius: 0 150px 0 150px;
+  box-shadow: -6px 6px 11px 1px rgba(0, 0, 0, 0.2);
+}
+
+.region {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+.region p:last-child {
+  font-size: 1.7em;
+}

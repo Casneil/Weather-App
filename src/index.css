@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #b83870;
+  background: -webkit-linear-gradient(to left, #dc7b9a, #b83870);
+  background: linear-gradient(to left, #dc7b9a, #b83870);
+}
