@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.bd4db5be.chunk.css",
+    "main.js": "/Weather-App/static/js/main.0342a717.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.0342a717.chunk.js.map",
+    "runtime~main.js": "/Weather-App/static/js/runtime~main.ec7003ae.js",
+    "runtime~main.js.map": "/Weather-App/static/js/runtime~main.ec7003ae.js.map",
+    "static/js/2.244b9e6c.chunk.js": "/Weather-App/static/js/2.244b9e6c.chunk.js",
+    "static/js/2.244b9e6c.chunk.js.map": "/Weather-App/static/js/2.244b9e6c.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "precache-manifest.359f5e1092732f60c354c4c5f4efa071.js": "/Weather-App/precache-manifest.359f5e1092732f60c354c4c5f4efa071.js",
+    "service-worker.js": "/Weather-App/service-worker.js",
+    "static/css/main.bd4db5be.chunk.css.map": "/Weather-App/static/css/main.bd4db5be.chunk.css.map",
+    "static/media/Berlin.jpg": "/Weather-App/static/media/Berlin.74120c3c.jpg",
+    "static/media/Jamaica.jpg": "/Weather-App/static/media/Jamaica.6dbf8518.jpg",
+    "static/media/path.svg": "/Weather-App/static/media/path.3aa78851.svg",
+    "static/media/snow.svg": "/Weather-App/static/media/snow.ea8b6ac2.svg",
+    "static/media/sunny.svg": "/Weather-App/static/media/sunny.e5a3e3b6.svg"
+  }
+}
